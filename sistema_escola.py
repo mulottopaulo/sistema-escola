@@ -1,2 +1,3 @@
 class SistemaEscola:
-    pass
+    def __init__(self):
+        self.contratos = []
